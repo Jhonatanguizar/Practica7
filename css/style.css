@@ -6,7 +6,7 @@ body{
     background-color:navajowhite;
 }
 .areaprincipal{
-    background-image: url("./img/cafe.png");
+    background-image: url("/img/cafe.png");
     background-repeat: no-repeat;
     width: 100%;
     height: auto;
